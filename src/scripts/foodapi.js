@@ -15,9 +15,11 @@ fetch("http://localhost:8088/food")
 
 const foodFactory = (food) => {
   return `
+  <div class="foodBox">
     <h1>${food.name}</h1>
     <div>${food.ethnicity}</div>
     <div>${food.category}</div>
+  </div>
     `
 
 }
