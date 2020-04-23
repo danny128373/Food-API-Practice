@@ -1,0 +1,46 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "Volcano Roll",
+      "category": "sushi",
+      "ethnicity": "japanese"
+    },
+    {
+      "id": 2,
+      "name": "Nachos",
+      "category": "chips",
+      "ethnicity": "mexican"
+    },
+    {
+      "id": 3,
+      "name": "Panang Curry",
+      "category": "curry",
+      "ethnicity": "thai"
+    },
+    {
+      "id": 4,
+      "name": "Shrimp Alfredo",
+      "category": "pasta",
+      "ethnicity": "italian"
+    },
+    {
+      "id": 5,
+      "name": "Lo Mein",
+      "category": "noodles",
+      "ethnicity": "chinese"
+    },
+    {
+      "name": "Shrimp Scampi",
+      "category": "pasta",
+      "ethnicity": "italian",
+      "id": 6
+    },
+    {
+      "name": "Supreme Pizza",
+      "category": "pizza",
+      "ethnicity": "italian",
+      "id": 7
+    }
+  ]
+}
